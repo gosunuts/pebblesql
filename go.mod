@@ -1,4 +1,4 @@
-module github.com/rabbitprincess/pebblesql
+module github.com/gosunuts/pebblesql
 
 go 1.23.2
 
